@@ -1,6 +1,13 @@
-Dim s as String
-dim i as Integer
+Attribute VB_Name = "Module1"
+Dim s As String
+Dim i As Integer
 
-Public Functuin getI() as Integer
+Public Function getI() As Integer
 
-end sub
+End Function
+
+Public Function NuevaFuncionSupuestamenteSobreRamaNueva() As Integer
+
+End Function
+
+ dim l as long
